@@ -1,6 +1,14 @@
-BITMO READER
+GlassCodeReader 1.0
+www.glasscodeinc.com/code/glasscodereader
 
+*What is it?*
+GlassCodeReader is an Android feed parser to parse content from an RSS feed, and 
+display it in a native pane in an Android application, giving a seamless user experience.
+Many applications can benefit from pulling content via a feed such as RSS/Atom/JSON, but many of them
+simply redirect to a WebView, adding little value to the native application experience. GlassCodeReader solves this problem.
 
+*Pre-requisites*
+- Requires Apache Commons 2.0 Jar
 
-
-Requires Apache Commons 2.0 Jar
+*Supported Platforms*
+- Currently only Android 2.2+ 
